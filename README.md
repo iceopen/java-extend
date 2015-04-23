@@ -1,4 +1,4 @@
-# Awesome Java 感谢 (akullpp)[https://github.com/akullpp/awesome-java] 对内容的整理
+# Awesome Java 感谢 [akullpp](https://github.com/akullpp/awesome-java) 对内容的整理
 
 A curated list of awesome Java frameworks, libraries and software. Inspired by other [awesome lists](https://github.com/bayandin/awesome-awesomeness).
 
